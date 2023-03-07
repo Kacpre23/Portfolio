@@ -1,3 +1,3 @@
 # Portfolio
-Work in progress
+Work in progress.
 My portfolio where you can find my projects written in different programming languages
