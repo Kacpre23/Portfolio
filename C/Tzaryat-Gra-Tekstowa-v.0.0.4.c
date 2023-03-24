@@ -134,7 +134,7 @@ int main () {
                     }
                     break;
 
-                case '3': printf("\n\nGra zostala stworzona przez studio Holy Trinity i jest w wersji testowej.\nJezeli cos nie dziala, napisz do nas, a my sie tym zajmiemy:\n[e-mail]\n\n\nProgramisci:\n\nKacper Suder\nMarcin Rzesista\nAdrian Ponikowski\n\nPomoc przy tworzeniu produkcji: Konrad Walas\n");
+                case '3': printf("\n\nGra znajduje się w wersji testowej.\nJezeli cos nie dziala, napisz do nas, a my sie tym zajmiemy:\n[e-mail]\n\n\nProgramisci:\n\nKacper Suder\nHistoria:\n\nMarcin Rzesista\n");
 					SetConsoleTextAttribute(kolor,8);
 					system("pause");
 					break;
